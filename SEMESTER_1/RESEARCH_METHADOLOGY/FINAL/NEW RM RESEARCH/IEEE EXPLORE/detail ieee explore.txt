@@ -1,0 +1,4 @@
+
+climate temperature global heating wheather temperature
+
+("All Metadata":"climate change" OR "All Metadata":global temperature) AND ("All Metadata":"machine learning" OR "All Metadata": artificial intelligence) AND ("All Metadata":gis OR "All Metadata":geospatial OR "All Metadata":geo*)

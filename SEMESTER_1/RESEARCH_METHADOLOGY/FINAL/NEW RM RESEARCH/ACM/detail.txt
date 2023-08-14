@@ -1,0 +1,12 @@
+
+
+results : 83
+
+
+seach keyword
+
+climate change OR climate temperature
+
+machine learning OR artificial intelligence
+
+gis OR geospatial OR geo*

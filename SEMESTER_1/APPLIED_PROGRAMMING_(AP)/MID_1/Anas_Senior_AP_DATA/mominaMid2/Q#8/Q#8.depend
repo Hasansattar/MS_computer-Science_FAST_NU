@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543609263 source:c:\users\anas\desktop\q#8\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+

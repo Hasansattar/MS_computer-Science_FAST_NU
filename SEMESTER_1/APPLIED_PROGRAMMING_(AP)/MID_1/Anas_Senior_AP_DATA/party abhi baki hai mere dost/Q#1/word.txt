@@ -1,0 +1,10 @@
+happy
+fail
+girl
+on
+day
+exit
+interior
+false
+alive
+pull 

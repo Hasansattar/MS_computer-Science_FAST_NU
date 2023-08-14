@@ -1,0 +1,5 @@
+https://www.log2base2.com/data-structures/tree/insert-a-node-in-binary-search-tree.html
+
+https://www.freecodecamp.org/news/binary-search-trees-bst-explained-with-examples/
+
+https://ide.tutorialhorizon.com/?gistUrl=https%3A%2F%2Fgist.githubusercontent.com%2Fthmain%2Fca632f9b3eb116bc2fe0%2Fraw%2F

@@ -1,0 +1,12 @@
+methods        paper1   paper2     paper3    paper4   paper5
+regression      yes                  yes
+SVM              NO          yes               yes       yes    =====>  Global Land Temperature Prediction
+SKSC                         yes                                =====>   Clustering-based
+GLM                                   yes                      =====>Predicting the effects of climate change
+GMS                                                               ===> Prediction of heat waves over Pakistan
+                                                           yes       ====>Groundwater level prediction based 
+
+
+
+
+this systematic review analyzed the use of machine learning and GIS in the development of climate temperature maps. The review found that these tools can be effective in analyzing and understanding the effects of climate change, but the accuracy of the maps depends on the quality of the data and modeling techniques used. Machine learning and GIS can be used to create decision-making tools for adaptation and mitigation, but their effectiveness will depend on the specific methods and approaches used. It is important for researchers to continue to develop and improve these tools in order to better understand and address the impacts of climate change

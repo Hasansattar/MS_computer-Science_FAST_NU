@@ -1,0 +1,3 @@
+total prime numbers: 4
+total even numbers: 7
+total odd numbers: 6
